@@ -58,4 +58,4 @@ A 6T SRAM cell designed and characterized in Cadence Virtuoso, with custom testb
 
 ## 🤝 Let's Build Something
 
-Always up for talking **RTL design**, **FPGA projects**, or **analog IC work**. Drop a mail or check out my repositories if you're building something cool in the digital design domain.
+Always up for collaborating in **RTL design**, **FPGA projects**, or **analog IC work**. Drop a mail or check out my repositories if you're building something cool in the digital design domain.
