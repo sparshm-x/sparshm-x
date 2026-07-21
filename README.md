@@ -8,9 +8,9 @@
 
 ## 🔍 About Me
 
-I'm a VLSI enthusiast diving deep into **hardware description languages**, **FPGA prototyping**, and **analog IC design**. Still early in the journey, but every project teaches me something new about how logic becomes silicon.
+I'm a VLSI enthusiast diving deep into **hardware description languages**, **FPGA prototyping**, and **analog IC design**. Still early in the journey, but every project teaches me something new qabout how logic transforms into hardware.
 
-- 🔧 Working with **Verilog / HDL** for digital design and verification
+- 🔧 Working with **Verilog HDL** for digital design and verification
 - 🖥️ Building and testing on **Vivado** for FPGA implementation
 - ⚡ Exploring analog design flows in **Cadence Virtuoso**
 - 🌱 Constantly learning — from RTL to transistor-level thinking
@@ -54,7 +54,7 @@ A hardware-based authentication module inspired by AES encryption principles, de
   <img src="https://media.giphy.com/media/ywvoMVxBE31mNuoYDF/giphy.gif" width="450">
 </p>
 
-> "Every transistor tells a story — mine's still being written."
+> "Turning logic into hardware."
 
 ---
 
