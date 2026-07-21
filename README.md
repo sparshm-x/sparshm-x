@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sparsh Malhotra 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F7A81B&center=true&vCenter=true&width=500&lines=VLSI+Enthusiast;RTL+Design+Explorer;Analog+IC+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F7A81B&center=true&vCenter=true&width=500&lines=VLSI+Enthusiast;RTL+Design+Explorer;Analog+IC+Design+Learner" alt="Typing SVG" />
 </p>
 
 ---
