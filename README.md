@@ -37,7 +37,7 @@ I'm a VLSI enthusiast diving deep into **hardware description languages**, **FPG
 
 <p align="center">
   <a href="https://github.com/sparshm-x">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sparshm-x&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile" width="400" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api?username=sparshm-x&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=percentile" width="400" />
   </a>
 </p>
 
@@ -67,4 +67,3 @@ A hardware-based authentication module inspired by AES encryption principles, de
 ## 🤝 Let's Build Something
 
 Always up for talking **RTL design**, **FPGA projects**, or **analog IC work**. If you're building in the digital/analog design space, drop a message — I'd love to collaborate or just nerd out about hardware.
-
