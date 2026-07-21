@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sparsh Malhotra 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F7A81B&center=true&vCenter=true&width=500&lines=VLSI+Enthusiast;RTL+Design;Analog+IC+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F7A81B&center=true&vCenter=true&width=500&lines=VLSI+Enthusiast;RTL+Design+Explorer;Analog+IC+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -31,6 +31,16 @@ I'm a VLSI enthusiast diving deep into **hardware description languages**, **FPG
 
 ---
 
+## 📊 GitHub Insights
+
+<p align="center">
+  <a href="https://github.com/sparshm-x">
+    <img align="center" src="https://github-stats-extended.vercel.app/api?username=sparshm-x&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=percentile" width="400" />
+  </a>
+</p>
+
+---
+
 ## 🚀 Featured Project
 
 ### 🔐 [AES-Inspired Digital Authentication System](https://github.com/sparshm-x)
@@ -38,17 +48,18 @@ A hardware-based authentication module inspired by AES encryption principles, de
 
 ### 🌀 [5-Stage Ring Oscillator](https://github.com/sparshm-x)
 An analog IC design in Cadence Virtuoso, taken end-to-end from schematic through layout, including full post-layout simulation to validate oscillation frequency and signal stability.
- 
+
 ### 💾 [6T SRAM Cell Design](https://github.com/sparshm-x)
 A 6T SRAM cell designed and characterized in Cadence Virtuoso, with custom testbench and layout, transient response analysis, and butterfly curve plots to verify read/write stability.
 
 ---
 
-## 🎛️ Tuned In
+## 🎛️ VLSI Vibes
 
 <p align="center">
   <img src="https://media.giphy.com/media/ywvoMVxBE31mNuoYDF/giphy.gif" width="580">
 </p>
+
 <p align="center">
   <i>"Turning logic into hardware."</i>
 </p>
@@ -57,4 +68,4 @@ A 6T SRAM cell designed and characterized in Cadence Virtuoso, with custom testb
 
 ## 🤝 Let's Build Something
 
-Always up for talking **RTL design**, **FPGA projects**, or **analog IC work**. If you're building in the digital/analog design space, drop a message — I'd love to collaborate or just learn about hardware.
+Always up for talking **RTL design**, **FPGA projects**, or **analog IC work**. Drop a mail or check out my repositories if you're building something cool in the digital design domain.
