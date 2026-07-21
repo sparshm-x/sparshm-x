@@ -41,10 +41,11 @@ A hardware-based authentication module inspired by AES encryption principles, de
 ## 📟 Signal Check
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ywvoMVxBE31mNuoYDF/giphy.gif" width="450">
+  <img src="https://media.giphy.com/media/ywvoMVxBE31mNuoYDF/giphy.gif" width="580">
 </p>
-
-> "Turning logic into hardware."
+<p align="center">
+  <i>"Turning logic into hardware."</i>
+</p>
 
 ---
 
