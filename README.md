@@ -48,13 +48,13 @@ A hardware-based authentication module inspired by AES encryption principles, de
 
 ---
 
-## ⚡ Current Vibe
+## 📟 Signal Check
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ywvoMVxBE31mNuoYDF/giphy.gif" width="450">
+  <img src="https://media.giphy.com/media/ywvoMVxBE31mNuoYDF/giphy.gif" width="550">
 </p>
 
-> "Every transistor tells a story — mine's still being written."
+> "Turning logic into hardware."
 
 ---
 
