@@ -1,14 +1,14 @@
 <h1 align="center">Hey, I'm Sparsh Malhotra 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A81B&center=true&vCenter=true&width=500&lines=VLSI+Enthusiast;HDL+%7C+FPGA+%7C+Analog+Design;Chasing+Signal+Integrity;Cadence+Virtuoso+%2B+Vivado" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A81B&center=true&vCenter=true&width=500&lines=VLSI+Enthusiast;Chasing+Signal+Integrity" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🔍 About Me
 
-I'm a VLSI enthusiast diving deep into **hardware description languages**, **FPGA prototyping**, and **analog IC design**. I like taking ideas from schematic to silicon-ready blocks, and I'm just as comfortable debugging a waveform at 2 AM as I am sketching a layout.
+I'm a VLSI enthusiast diving deep into **hardware description languages**, **FPGA prototyping**, and **analog IC design**. Still early in the journey, but every project teaches me something new about how logic becomes silicon.
 
 - 🔧 Working with **Verilog / HDL** for digital design and verification
 - 🖥️ Building and testing on **Vivado** for FPGA implementation
@@ -21,14 +21,12 @@ I'm a VLSI enthusiast diving deep into **hardware description languages**, **FPG
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/Verilog-HDL-1f6feb?style=for-the-badge&logo=v&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/Xilinx-Vivado-e6262d?style=for-the-badge&logo=xilinx&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/Cadence-Virtuoso-00a19a?style=for-the-badge" height="35">
-  <img src="https://img.shields.io/badge/FPGA-Prototyping-6a0dad?style=for-the-badge" height="35">
-  <img src="https://img.shields.io/badge/Analog%20Design-IC-orange?style=for-the-badge" height="35">
 </p>
 
 ---
@@ -53,7 +51,7 @@ A hardware-based authentication module inspired by AES encryption principles, de
 ## ⚡ Current Vibe
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUOxfjsW77pOBjjSHK/giphy.gif" width="450">
+  <img src="https://media.giphy.com/media/ywvoMVxBE31mNuoYDF/giphy.gif" width="450">
 </p>
 
 > "Every transistor tells a story — mine's still being written."
@@ -62,4 +60,4 @@ A hardware-based authentication module inspired by AES encryption principles, de
 
 ## 🤝 Let's Build Something
 
-Always up for talking **RTL design**, **FPGA projects**, or **analog IC work**. If you're building in the digital/analog design space, drop a message — I'd love to collaborate or just nerd out about hardware.
+Always up for talking **RTL design**, **FPGA projects**, or **analog IC work**. If you're building in the digital/analog design space, drop a message — I'd love to collaborate or just learn about hardware.
