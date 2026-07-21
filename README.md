@@ -36,6 +36,12 @@ I'm a VLSI enthusiast diving deep into **hardware description languages**, **FPG
 ### 🔐 [AES-Inspired Digital Authentication System](https://github.com/sparshm-x)
 A hardware-based authentication module inspired by AES encryption principles, designed to secure digital access through custom RTL logic and verified via simulation and FPGA deployment.
 
+### 🌀 [5-Stage Ring Oscillator](https://github.com/sparshm-x)
+An analog IC design in Cadence Virtuoso, taken end-to-end from schematic through layout, including full post-layout simulation to validate oscillation frequency and signal stability.
+ 
+### 💾 [6T SRAM Cell Design](https://github.com/sparshm-x)
+A 6T SRAM cell designed and characterized in Cadence Virtuoso, with custom testbench and layout, transient response analysis, and butterfly curve plots to verify read/write stability.
+
 ---
 
 ## 📟 Signal Check
