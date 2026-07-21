@@ -8,7 +8,7 @@
 
 ## 🔍 About Me
 
-I'm a VLSI enthusiast diving deep into **hardware description languages**, **FPGA prototyping**, and **analog IC design**. Still early in the journey, but every project teaches me something new qabout how logic transforms into hardware.
+I'm a VLSI enthusiast diving deep into **hardware description languages**, **FPGA prototyping**, and **analog IC design**. Still early in the journey, but every project teaches me something new about how logic transforms into hardware.
 
 - 🔧 Working with **Verilog HDL** for digital design and verification
 - 🖥️ Building and testing on **Vivado** for FPGA implementation
