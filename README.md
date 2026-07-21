@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sparsh Malhotra 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A81B&center=true&vCenter=true&width=500&lines=VLSI+Enthusiast;Chasing+Signal+Integrity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A81B&center=true&vCenter=true&width=500&lines=VLSI+Enthusiast+%E2%80%A2+RTL+Design+%E2%80%A2+Analog+IC+Design" alt="Typing SVG" />
 </p>
 
 ---
@@ -51,10 +51,10 @@ A hardware-based authentication module inspired by AES encryption principles, de
 ## 📟 Signal Check
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ywvoMVxBE31mNuoYDF/giphy.gif" width="550">
+  <img src="https://media.giphy.com/media/ywvoMVxBE31mNuoYDF/giphy.gif" width="450">
 </p>
 
-> "Turning logic into hardware."
+> "Every transistor tells a story — mine's still being written."
 
 ---
 
