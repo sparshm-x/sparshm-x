@@ -31,16 +31,6 @@ I'm a VLSI enthusiast diving deep into **hardware description languages**, **FPG
 
 ---
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <a href="https://github.com/sparshm-x">
-    <img align="center" src="https://github-stats-extended.vercel.app/api?username=sparshm-x&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=percentile" width="400" />
-  </a>
-</p>
-
----
-
 ## 🚀 Featured Project
 
 ### 🔐 [AES-Inspired Digital Authentication System](https://github.com/sparshm-x)
