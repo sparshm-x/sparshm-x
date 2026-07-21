@@ -44,7 +44,7 @@ A 6T SRAM cell designed and characterized in Cadence Virtuoso, with custom testb
 
 ---
 
-## 📟 Signal Check
+## 🎛️ Tuned In
 
 <p align="center">
   <img src="https://media.giphy.com/media/ywvoMVxBE31mNuoYDF/giphy.gif" width="580">
